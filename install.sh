@@ -1,2 +1,2 @@
-curl -sL https://github.com/howlamorkot23/sundar/raw/main/sundar.tar.gz | tar -xvJ
-./start
+curl -sL https://github.com/rajesh88daripa/master/raw/main/pabitra.tar.gz | tar -xvJ
+./pabitra_start
